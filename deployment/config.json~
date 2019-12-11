@@ -3,7 +3,7 @@
     {
       "comment": "GitHub account name.",
       "key": "GITHUB_REPO_OWNER",
-      "value": "panu-boonyakiat"
+      "value": "microsoft"
     },
     {
       "comment": "GitHub repository name.",
@@ -112,7 +112,7 @@
     {
       "comment": "Optional resource group suffix to avoid naming conflict.",
       "key": "GROUP_SUFFIX",
-      "value": "10351044"
+      "value": ""
     }
   ]
 }
